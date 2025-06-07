@@ -8,9 +8,8 @@ O objetivo do livro é ser um guia rápido e direto para estudantes e profission
 
 Você pode ler ou baixar a versão completa do ebook em formato PDF diretamente no link abaixo:
 
-  * **[Clique aqui para ler o ebook completo em PDF](https://www.google.com/search?q=./NOME_DO_SEU_ARQUIVO.pdf)**
+  * **[Clique aqui para ler o ebook completo em PDF](https://github.com/AraujoStreicher/prompts-recipe-to-create-a-ebook/blob/master/A%20ARTE%20DE%20SELECIONAR%20DADOS.pdf)**
 
-> *Observação: Lembre-se de renomear o link acima para o nome exato do seu arquivo PDF no repositório.*
 
 ## 🤖 Ferramentas Utilizadas
 
