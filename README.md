@@ -15,8 +15,8 @@ Você pode ler ou baixar a versão completa do ebook em formato PDF diretamente 
 
 Este projeto foi desenvolvido com o auxílio de modelos de IA generativa para a criação de texto e imagem:
 
-  * **Texto e Estrutura:** Todo o conteúdo textual, incluindo a estrutura dos capítulos, as explicações e os exemplos de código, foi gerado com o auxílio do **[Google Gemini](https://www.google.com/search?q=https.gemini.google.com)**.
-  * **Imagem da Capa:** A imagem de capa foi criada utilizando o gerador de imagens DALL-E, através do **[ChatGPT](https://chat.openai.com/)**.
+  * **Texto e Estrutura:** Todo o conteúdo textual, incluindo a estrutura dos capítulos, as explicações e os exemplos de código, foi gerado com o auxílio do **Google Gemini**.
+  * **Imagem da Capa:** A imagem de capa foi criada utilizando o gerador de imagens DALL-E, através do **ChatGPT**.
 
 ## 📝 Prompts Utilizados
 
