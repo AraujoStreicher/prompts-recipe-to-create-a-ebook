@@ -1,9 +1,3 @@
-Com certeza\! Um bom `README` é essencial para qualquer projeto. Ele ajuda outras pessoas (e você no futuro) a entenderem como o projeto foi criado.
-
-Aqui está uma sugestão de `README.md` que você pode adicionar ao seu repositório.
-
------
-
 # Ebook: A Arte de Selecionar Dados: Amostragem para uma IA Mais Inteligente
 
 Este repositório contém o material do breve ebook "A Arte de Selecionar Dados: Amostragem para uma IA Mais Inteligente", focado em explicar de maneira simples e prática as principais técnicas de amostragem usadas em Machine Learning e Inteligência Artificial.
